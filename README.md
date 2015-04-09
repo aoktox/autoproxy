@@ -37,7 +37,7 @@ use the following command:
 
 **Remove autoproxy**
 
-To remove the autoproxy script run the following command under the same user you installed Minstall under:
+To remove the autoproxy script run the following command under the same user you installed autoproxy:
 
 	rm -f /bin/autoproxy.sh
 
